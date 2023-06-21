@@ -1,5 +1,5 @@
-import Sidebar from './component/Sidebar';
-import Dashboard from './component/Dashboard';
+import Sidebar from './Component/Sidebar';
+import Dashboard from './Component/Dashboard';
 function App() {
   return <>
     <div id="wrapper">
